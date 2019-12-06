@@ -1,0 +1,29 @@
+﻿<Window x:Class="BankingSystemLodder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BankingSystemLodder"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="Username" Grid.Column="1" Grid.Row="1" Text="Username" FontSize="15px" Margin="10.2,40,181.6,76"  RenderTransformOrigin="0.008,0.67"/>
+        <TextBlock x:Name="Password" Grid.Column="1" Grid.Row="1" Text="Password" FontSize="15px" Margin="10.2,75,181.6,43" RenderTransformOrigin="0.008,0.67"/>
+        <TextBox x:Name="UsernameBox" Grid.Column="1" Grid.Row="1" Height="20px" Margin="92.2,40,9.6,80"/>
+        <TextBox x:Name="PasswordBox" Grid.Column="1" Grid.Row="1" Height="20px" Margin="92.2,75,9.6,45"/>
+        <Button x:Name="btnLogin" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="1"  Content="Login" Height="20px" Margin="149.2,108,9.6,12" Width="106"/>
+
+    </Grid>
+</Window>
