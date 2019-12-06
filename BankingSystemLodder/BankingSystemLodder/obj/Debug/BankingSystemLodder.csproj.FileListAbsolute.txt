@@ -1,0 +1,15 @@
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\BankingSystemLodder\BankingSystemLodder\obj\Debug\BankingSystemLodder.csprojAssemblyReference.cache
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\BankingSystemLodder\BankingSystemLodder\obj\Debug\MainWindow.g.cs
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\BankingSystemLodder\BankingSystemLodder\obj\Debug\App.g.cs
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\BankingSystemLodder\BankingSystemLodder\obj\Debug\BankingSystemLodder_MarkupCompile.cache
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\BankingSystemLodder\BankingSystemLodder\obj\Debug\BankingSystemLodder_MarkupCompile.lref
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\BankingSystemLodder\BankingSystemLodder\bin\Debug\BankingSystemLodder.exe.config
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\BankingSystemLodder\BankingSystemLodder\bin\Debug\BankingSystemLodder.exe
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\BankingSystemLodder\BankingSystemLodder\bin\Debug\BankingSystemLodder.pdb
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\BankingSystemLodder\BankingSystemLodder\obj\Debug\MainWindow.baml
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\BankingSystemLodder\BankingSystemLodder\obj\Debug\BankingSystemLodder.g.resources
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\BankingSystemLodder\BankingSystemLodder\obj\Debug\BankingSystemLodder.Properties.Resources.resources
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\BankingSystemLodder\BankingSystemLodder\obj\Debug\BankingSystemLodder.csproj.GenerateResource.cache
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\BankingSystemLodder\BankingSystemLodder\obj\Debug\BankingSystemLodder.exe
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\BankingSystemLodder\BankingSystemLodder\obj\Debug\BankingSystemLodder.pdb
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\BankingSystemLodder\BankingSystemLodder\obj\Debug\BankingSystemLodder.csproj.CoreCompileInputs.cache

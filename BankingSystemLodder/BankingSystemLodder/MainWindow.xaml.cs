@@ -24,5 +24,30 @@ namespace BankingSystemLodder
         {
             InitializeComponent();
         }
+
+        private void btnLogin_Click(object sender, RoutedEventArgs e)
+        {
+            string username = UsernameBox.Text;
+            string password = PasswordBox1.Password;
+
+            if (username.Length == 0)
+            {
+                MessageBox.Show("Enter Username!");
+            }
+            else if (PasswordBox1.Password.Length == 0)
+            {
+                MessageBox.Show("Enter Password!");
+                PasswordBox1.Focus();
+            }
+            else if (username == "User1" &&  password == "UserPass1")
+            {
+                MessageBox.Show("Welcome User1!");
+            }
+            else
+            {
+                MessageBox.Show("Not valid! Try again!");
+            }
+
+        }
     }
 }
