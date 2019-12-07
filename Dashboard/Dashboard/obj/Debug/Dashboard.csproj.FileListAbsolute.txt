@@ -1,0 +1,14 @@
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\Dashboard\Dashboard\obj\Debug\MainWindow.g.cs
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\Dashboard\Dashboard\obj\Debug\App.g.cs
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\Dashboard\Dashboard\obj\Debug\Dashboard_MarkupCompile.cache
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\Dashboard\Dashboard\obj\Debug\Dashboard_MarkupCompile.lref
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\Dashboard\Dashboard\obj\Debug\MainWindow.baml
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\Dashboard\Dashboard\obj\Debug\Dashboard.g.resources
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\mwlod\Documents\Prive\Repos\TheLodderBankingSystem\Dashboard\Dashboard\obj\Debug\Dashboard.pdb

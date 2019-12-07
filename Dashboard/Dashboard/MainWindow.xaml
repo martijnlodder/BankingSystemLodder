@@ -5,8 +5,43 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Dashboard"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" Background="Black">
     <Grid>
-        
+        <!--The Login Menu-->
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <!-- The menu header will be in Row 0 -->
+            <RowDefinition Height="55"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!--Need to fix the fullscreen mode of the picture!!!-->
+        <Image Margin="10,5,60.4,5.2" Source="Image1.png" Stretch="Fill"/>
+        <!--Exit Button-->
+        <Button x:Name="exit" Content="Exit" Width="40px" Grid.Column="3" Margin="148.8,5,9.6,5.2" FontFamily="Verdana" Background="Black" Foreground="#FED301" BorderBrush="Black" Click="exit_Click"/>
+
+        <!--Header line-->
+        <Line 
+            X1="50" Y1="50" 
+            X2="850" Y2="50"
+            Stroke="#FED301"
+            StrokeThickness="2" Margin="-51,10,-0.4,111.8" Grid.RowSpan="2" Grid.ColumnSpan="4" />
+
+        <!--Vertical Line-->
+        <Line
+            X1="50" Y1="50"
+            X2="400" Y2="100000"
+            Stroke="#FED301"
+            StrokeThickness="2" Grid.ColumnSpan="2" Margin="147,10,150.8,0" Grid.RowSpan="4" />
     </Grid>
 </Window>

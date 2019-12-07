@@ -24,5 +24,10 @@ namespace Dashboard
         {
             InitializeComponent();
         }
+
+        private void exit_Click(object sender, RoutedEventArgs e)
+        {
+            System.Windows.Application.Current.Shutdown();
+        }
     }
 }
