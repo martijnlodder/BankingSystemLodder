@@ -1,8 +1,8 @@
 # BankingSystemLodder
 Personal Project: Banking System Lodder
 
-# BankingSystemLodder directory
+*BankingSystemLodder directory
 Login Menu
 
-# DashboardBSL
+`DashboardBSL
 The main dashboard
